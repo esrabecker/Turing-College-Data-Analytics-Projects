@@ -1,5 +1,3 @@
-### [Adventure Works Sales Analysis Report](https://docs.google.com/spreadsheets/d/1kRYcSapO_W5zthyZE6LJrV_NJUuIqpg7Us1qs87hC-o/edit#gid=108409262)
-
 ## Utilising Spreadsheets for Data Analytics																						
 In this spreadsheet you have:																									
 - AdventureWorks.salesorderheader (with salesreasonID)																									
@@ -7,7 +5,8 @@ In this spreadsheet you have:
 - AdventureWorks.employee (with contact data)																									
 - AdventureWorks.SalesTerritory
 
-Some of the redundant columns have been removed here (as opposed to the original SQL tables) to improve performance.			There still may be redundant columns in the data, it is up to you to choose what to use and what not.																									
+Some of the redundant columns have been removed here (as opposed to the original SQL tables) to improve performance.			There still may be redundant columns in the data, it is up to you to choose what to use and what not.																						### [Adventure Works Sales Analysis Report](https://docs.google.com/spreadsheets/d/1kRYcSapO_W5zthyZE6LJrV_NJUuIqpg7Us1qs87hC-o/edit#gid=108409262)
+
 ### You've been tasked to populate the 'Overview' sheet with analytical insight:							
 1. Business would like to see the monthly sales trend.										
 2. They would also like to evaluate online vs non-online orders.																									
