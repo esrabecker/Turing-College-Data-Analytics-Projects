@@ -42,5 +42,5 @@ Some of the redundant columns have been removed here (as opposed to the original
 
 -Good use of formatting, layout,  and results highlighting.																
 
-### [Adventure Works Sales Analysis Report](https://docs.google.com/spreadsheets/d/1kRYcSapO_W5zthyZE6LJrV_NJUuIqpg7Us1qs87hC-o/edit#gid=108409262)
+The report Could be found here [Adventure Works Sales Analysis Report](https://docs.google.com/spreadsheets/d/1kRYcSapO_W5zthyZE6LJrV_NJUuIqpg7Us1qs87hC-o/edit#gid=108409262)
 
