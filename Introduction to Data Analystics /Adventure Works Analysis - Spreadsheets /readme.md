@@ -1,6 +1,6 @@
-### [Please check the here for the Project](https://docs.google.com/spreadsheets/d/1kRYcSapO_W5zthyZE6LJrV_NJUuIqpg7Us1qs87hC-o/edit#gid=108409262)
+### [Adventure Works Sales Analysis Report](https://docs.google.com/spreadsheets/d/1kRYcSapO_W5zthyZE6LJrV_NJUuIqpg7Us1qs87hC-o/edit#gid=108409262)
 
-## Graded Task																							
+## Utilising Spreadsheets for Data Analytics																						
 In this spreadsheet you have:																									
 - AdventureWorks.salesorderheader (with salesreasonID)																									
 - AdventureWorks.salesreason																									
