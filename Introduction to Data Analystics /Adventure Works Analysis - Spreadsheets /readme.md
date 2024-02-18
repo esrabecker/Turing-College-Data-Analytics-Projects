@@ -1,6 +1,6 @@
 # Utilising Spreadsheets for Data Analytics
 
-## Project Description and Requirements
+## Project Description 
 
 In this spreadsheet you have:																									
 - AdventureWorks.salesorderheader (with salesreasonID)																									
